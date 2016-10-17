@@ -1,0 +1,8 @@
+
+arduino -> dash
+d7 -> d8
+d6 -> d6
+d5 -> d15
+d4 -> d3
+ao -> d4
+d8 -> canrx
